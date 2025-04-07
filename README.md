@@ -1,12 +1,11 @@
-# 🧠 Portfólio de Projetos - Ciência/Engenharia de Dados em Python
+# 🧠 Portfólio de Projetos - Análise/Engenharia de Dados
 
-Bem-vindo ao meu repositório de projetos em Python! Este espaço foi criado para expor alguns projetos que desenvolvi com foco em ciência de dados, estatística e boas práticas em ETL. Todos os projetos foram elaborados com o objetivo de aplicar na prática os conhecimentos utilizados no meu dia a dia como analista de dados.
+Bem-vindo ao meu repositório de projetos! Este espaço foi criado para expor alguns projetos que desenvolvi com foco em dados, estatística e boas práticas. Todos os projetos foram elaborados com o objetivo de aplicar na prática os conhecimentos utilizados no meu dia a dia como analista de dados. Também encontra alguns dashboards de projetos pessoais.
 
 ## 🔍 O que você vai encontrar aqui
 
 ### 📊 1. Projetos de Ciência de Dados
 - Análises exploratórias (EDA)
-- Modelagem preditiva
 - Visualizações com matplotlib, seaborn e plotly
 - Uso de bibliotecas como pandas, numpy, scikit-learn
 
@@ -27,3 +26,4 @@ Bem-vindo ao meu repositório de projetos em Python! Este espaço foi criado par
 - **SQLAlchemy**, **openpyxl**, **PyPDF2**
 - **Jupyter Notebooks**
 - **VSCode / DBeaver**
+- **Power BI**
